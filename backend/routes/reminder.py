@@ -1,6 +1,7 @@
-from ..config import app,db
+from config import db
+from app import app
 from flask import request,jsonify,make_response
-from ..models import Reminder
+from models.reminder_model import Reminder
 
 #新增/删除提醒任务
 @app.route('/reminder',methods=['GET'])

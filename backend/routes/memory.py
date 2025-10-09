@@ -1,6 +1,7 @@
 from flask import jsonify
-from ..config import app,db
-from ..models import Memories
+from config import db
+from app import app
+from models.memory_model import Memories
 
 @app.route('/get_memory')
 def get_memory():
