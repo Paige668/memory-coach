@@ -1,0 +1,122 @@
+[
+  {
+    "text": "When supporting a person with dementia who may wander, which approach best balances safety and dignity?",
+    "options": [
+      "Lock doors and hide all keys",
+      "Use clear signage and GPS/ID technology",
+      "Encourage unsupervised solo outings",
+      "Frequently scold to reinforce memory"
+    ],
+    "answer_index": 1,
+    "explanation": "Environmental cues with ID/GPS improve safety while maintaining autonomy.",
+    "source_url": "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  },
+  {
+    "text": "Which communication strategy is most appropriate for Alzheimer’s caregiving?",
+    "options": [
+      "Ask repeated detailed questions",
+      "Use long, complex sentences",
+      "Speak slowly with short sentences, one step at a time",
+      "Ignore emotions and focus only on facts"
+    ],
+    "answer_index": 2,
+    "explanation": "Short, calm, one-step prompts reduce cognitive load and resistance.",
+    "source_url": "https://www.nhs.uk/conditions/dementia/living-with-dementia/communication/"
+  },
+  {
+    "text": "Late-day agitation ('sundowning') can often be reduced by which daytime strategy?",
+    "options": [
+      "Increase evening screen time and caffeine",
+      "Increase daytime activity and bright light; reduce evening stimulation",
+      "Keep curtains closed during the day",
+      "Play loud TV in the evening"
+    ],
+    "answer_index": 1,
+    "explanation": "Daytime physical activity and bright light support circadian rhythm.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10578524/"
+  },
+  {
+    "text": "At home, new swallowing difficulties (dysphagia) are noticed. Which first-line response is appropriate until formal assessment?",
+    "options": [
+      "Stop all oral intake and rely on IV fluids",
+      "Modify texture (soft/pureed; thickened fluids) and use small sips/bites",
+      "Force rapid eating to 'train' swallowing",
+      "Allow any foods to avoid embarrassment"
+    ],
+    "answer_index": 1,
+    "explanation": "Texture modification per IDDSI levels is standard interim safety guidance.",
+    "source_url": "https://www.iddsi.org/standards/framework"
+  },
+  {
+    "text": "Which home safety modification is evidence-based for fall prevention in dementia care?",
+    "options": [
+      "Use many mirrors to aid self-recognition",
+      "Install non-slip mats, grab bars, and low-glare night lighting",
+      "Keep clutter to 'train memory'",
+      "Gas safety is less important than lighting"
+    ],
+    "answer_index": 1,
+    "explanation": "Falls and bathroom safety (grab bars, non-slip mats, night lighting) are priorities.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11988477/"
+  },
+  {
+    "text": "For medication adherence in Alzheimer’s caregiving, which is recommended?",
+    "options": [
+      "Change dosing every day to avoid tolerance",
+      "Use pill organizers and written schedules; set reminders",
+      "Stop all medications if patient refuses once",
+      "Hide medications in food without any plan"
+    ],
+    "answer_index": 1,
+    "explanation": "Organizers + clear schedules improve adherence and safety.",
+    "source_url": "https://www.nia.nih.gov/health/managing-medicines-people-alzheimers-disease"
+  },
+  {
+    "text": "What is a respectful approach during personal care (e.g., bathing) to minimize distress?",
+    "options": [
+      "Rush through without explanation",
+      "Give simple choices and explain steps calmly",
+      "Avoid bathing to prevent agitation",
+      "Argue if the person resists"
+    ],
+    "answer_index": 1,
+    "explanation": "Choice + calm stepwise explanation improves cooperation.",
+    "source_url": "https://www.alzheimers.org.uk/get-support/daily-living/personal-care"
+  },
+  {
+    "text": "Which nutrition practice is generally advised when appetite is reduced?",
+    "options": [
+      "Offer small frequent meals and favorite foods; reduce distractions",
+      "Only large meals at set times",
+      "Strict low-fat diet regardless of preference",
+      "Remove snacks to enforce hunger"
+    ],
+    "answer_index": 0,
+    "explanation": "Small frequent portions, preferred foods, and calm environment can help.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5828901/"
+  },
+  {
+    "text": "A sudden change in behavior or increased confusion should prompt consideration of:",
+    "options": [
+      "New infection, pain, or medication side effects",
+      "Permanent disease progression only",
+      "Punishment for non-compliance",
+      "Higher TV volume"
+    ],
+    "answer_index": 0,
+    "explanation": "Reversible causes (infection/pain/meds) must be considered and assessed.",
+    "source_url": "https://www.nice.org.uk/guidance/ng97"
+  },
+  {
+    "text": "Which sleep hygiene step is recommended?",
+    "options": [
+      "Caffeine late in the day",
+      "Bright light in the evening",
+      "Regular daytime activity; evening wind-down and dim light",
+      "Napping all afternoon"
+    ],
+    "answer_index": 2,
+    "explanation": "Activity and light timing support circadian rhythm and sleep consolidation.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7055942/"
+  }
+]
