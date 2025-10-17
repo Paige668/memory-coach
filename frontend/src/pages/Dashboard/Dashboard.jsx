@@ -644,6 +644,10 @@ const brand = {
                 transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
                 position: 'relative',
                 overflow: 'hidden',
+                height: '100%',
+                minHeight: '400px',
+                display: 'flex',
+                flexDirection: 'column',
                 '&:hover': {
                   transform: 'translateY(-8px) scale(1.02)',
                   boxShadow: `0 12px 40px ${action.shadowColor}50`,
@@ -658,6 +662,7 @@ const brand = {
                   justifyContent: 'center',
                   alignItems: 'center',
                   mb: 4,
+                  flex: '0 0 auto',
                 }}
               >
                 <Box
@@ -696,6 +701,7 @@ const brand = {
                   textAlign: 'center',
                   mb: 2,
                   textShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
+                  flex: '0 0 auto',
                 }}
               >
                 {action.title}
@@ -710,6 +716,10 @@ const brand = {
                   lineHeight: 1.7,
                   textAlign: 'center',
                   textShadow: '0 1px 2px rgba(0, 0, 0, 0.1)',
+                  flex: '1 1 auto',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
                 }}
               >
                 {action.description}
