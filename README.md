@@ -2,7 +2,7 @@
 
 Memory Coach is a comprehensive wellness web application designed specifically for individuals with mild to moderate Alzheimer's disease and their caregivers. It helps users capture life memories through voice and text, manage gentle reminders for medications and daily activities, and engage in cognitive exercises through interactive quizzes.
 
-## 🌟 Features
+## Features
 
 ### Core Functionality
 
@@ -46,7 +46,7 @@ Memory Coach is a comprehensive wellness web application designed specifically f
   - Adaptive navigation
   - Cross-device compatibility
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** - Modern UI framework
@@ -70,7 +70,7 @@ Memory Coach is a comprehensive wellness web application designed specifically f
 - **Remember Me** - Long-term login persistence
 - **Caregiver Reset** - Email-based PIN recovery
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 memory-coach/
@@ -114,7 +114,7 @@ memory-coach/
 └── instance/                  # Database and uploads (runtime)
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -174,7 +174,7 @@ memory-coach/
    - Open `http://localhost:3002` in your browser
    - The frontend will automatically proxy API requests to the backend
 
-## 📱 Usage Guide
+## Usage Guide
 
 ### First Time Setup
 
@@ -223,7 +223,7 @@ memory-coach/
    - Learn from mistakes with detailed explanations
    - Retake questions to improve understanding
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -254,7 +254,7 @@ SECRET_KEY=your-secret-key-here
   - Access: `http://localhost:5001/dev/login_as/<user_id>`
   - Only enabled when `DEV_LOGIN_ENABLED=True`
 
-## 🗄 Database Schema
+## Database Schema
 
 ### Core Tables
 
@@ -272,7 +272,7 @@ SECRET_KEY=your-secret-key-here
 - Reminders support multiple notification channels
 - Quiz system tracks individual question performance
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ### Authentication
 - `POST /api/send_pin` - Send PIN to email
@@ -303,7 +303,7 @@ SECRET_KEY=your-secret-key-here
 - `GET /api/get_profile` - Get user profile
 - `PATCH /api/update_profile` - Update user profile
 
-## 🚀 Deployment
+## Deployment
 
 ### Production Build
 
@@ -336,56 +336,11 @@ COPY . .
 CMD ["python", "-m", "backend.app"]
 ```
 
-## 🧪 Testing
-
-### Manual Testing
-
-1. **Authentication Flow**
-   - Test PIN generation and verification
-   - Test "Remember Me" functionality
-   - Test PIN reset via caregiver email
-
-2. **Memory Cards**
-   - Create, edit, and delete memory cards
-   - Test voice recording functionality
-   - Verify search and filtering
-
-3. **Reminders**
-   - Create medication and general reminders
-   - Test notification delivery
-   - Verify recurring reminder functionality
-
-4. **Quiz System**
-   - Complete quiz sessions
-   - Review wrong answers
-   - Test progress tracking
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Designed for Alzheimer's patients and caregivers
 - Built with accessibility and usability in mind
 - Inspired by the need for memory assistance tools
 - Community-driven development approach
 
-## 📞 Support
-
-For support and questions:
-- Create an issue in the repository
-- Contact the development team
-- Check the documentation for common solutions
-
----
-
-**Memory Coach** - We are your memory companion. 🌟
+**Memory Coach** - We are your memory companion. 
