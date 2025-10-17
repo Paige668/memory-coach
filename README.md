@@ -1,5 +1,8 @@
 # Memory Coach - Alzheimer's Memory Assistant
 
+> **Note:** Default branch is **main**.  
+> View latest code: https://github.com/Paige668/memory-coach/tree/main
+
 Memory Coach is a comprehensive wellness web application designed specifically for individuals with mild to moderate Alzheimer's disease and their caregivers. It helps users capture life memories through voice and text, manage gentle reminders for medications and daily activities, and engage in cognitive exercises through interactive quizzes.
 
 ## Features
